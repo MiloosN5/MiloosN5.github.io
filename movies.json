@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "director": "Christopher Nolan",
+      "year": 2010
+    },
+    {
+      "id": 2,
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "director": "Christopher Nolan",
+      "year": 2008
+    },
+    {
+      "id": 3,
+      "title": "Interstellar",
+      "genre": "Sci-Fi",
+      "director": "Christopher Nolan",
+      "year": 2014
+    },
+    {
+      "id": 4,
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "director": "Frank Darabont",
+      "year": 1994
+    },
+    {
+      "id": 5,
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "director": "Quentin Tarantino",
+      "year": 1994
+    },
+    {
+      "id": 6,
+      "title": "The Godfather",
+      "genre": "Crime",
+      "director": "Francis Ford Coppola",
+      "year": 1972
+    },
+    {
+      "id": 7,
+      "title": "Fight Club",
+      "genre": "Drama",
+      "director": "David Fincher",
+      "year": 1999
+    },
+    {
+      "id": 8,
+      "title": "Forrest Gump",
+      "genre": "Drama",
+      "director": "Robert Zemeckis",
+      "year": 1994
+    },
+    {
+      "id": 9,
+      "title": "Avatar",
+      "genre": "Sci-Fi",
+      "director": "James Cameron",
+      "year": 2009
+    },
+    {
+      "id": 10,
+      "title": "Gladiator",
+      "genre": "Action",
+      "director": "Ridley Scott",
+      "year": 2000
+    }
+  ]
+  
