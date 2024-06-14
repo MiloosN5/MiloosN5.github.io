@@ -68,6 +68,76 @@
       "genre": "Action",
       "director": "Ridley Scott",
       "year": 2000
+    },
+    {
+      "id": 11,
+      "title": "Inception2",
+      "genre": "Sci-Fi",
+      "director": "Christopher Nolan",
+      "year": 2010
+    },
+    {
+      "id": 12,
+      "title": "The Dark Knight2",
+      "genre": "Action",
+      "director": "Christopher Nolan",
+      "year": 2008
+    },
+    {
+      "id": 13,
+      "title": "Interstellar2",
+      "genre": "Sci-Fi",
+      "director": "Christopher Nolan",
+      "year": 2014
+    },
+    {
+      "id": 14,
+      "title": "The Shawshank Redemption2",
+      "genre": "Drama",
+      "director": "Frank Darabont",
+      "year": 1994
+    },
+    {
+      "id": 15,
+      "title": "Pulp Fiction2",
+      "genre": "Crime",
+      "director": "Quentin Tarantino",
+      "year": 1994
+    },
+    {
+      "id": 16,
+      "title": "The Godfather2",
+      "genre": "Crime",
+      "director": "Francis Ford Coppola",
+      "year": 1972
+    },
+    {
+      "id": 17,
+      "title": "Fight Club2",
+      "genre": "Drama",
+      "director": "David Fincher",
+      "year": 1999
+    },
+    {
+      "id": 18,
+      "title": "Forrest Gump2",
+      "genre": "Drama",
+      "director": "Robert Zemeckis",
+      "year": 1994
+    },
+    {
+      "id": 19,
+      "title": "Avatar2",
+      "genre": "Sci-Fi",
+      "director": "James Cameron",
+      "year": 2009
+    },
+    {
+      "id": 20,
+      "title": "Gladiator2",
+      "genre": "Action",
+      "director": "Ridley Scott",
+      "year": 2000
     }
   ]
   
