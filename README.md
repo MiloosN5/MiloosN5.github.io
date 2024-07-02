@@ -16,5 +16,5 @@ List of subdirectories:
 *  [/FrontendMentor_OrderSummary_Challenge](https://miloosn5.github.io/FrontendMentor_OrderSummary_Challenge)
 *  [/FrontendMentor_InteractiveRatingComponent_Challenge](https://miloosn5.github.io/FrontendMentor_InteractiveRatingComponent_Challenge/public/index.html)
 *  [/FrontendMentor_ProductPreviewCardComponent_Challenge](https://miloosn5.github.io/FrontendMentor_ProductPreviewCardComponent_Challenge)
-*  [/FrontendMentor_ResultsSummaryComponent_Challenge](https://miloosn5.github.io/FrontendMentor_ResultsSummaryComponent_Challenge)
+*  [/FrontendMentor_ResultsSummaryComponent_Challenge](https://miloosn5.github.io/FrontendMentor_ResultsSummaryComponent_Challenge/public/index.html)
 *  [/FrontendMentor_QRCode_Challenge](https://miloosn5.github.io/FrontendMentor_QRCode_Challenge)
