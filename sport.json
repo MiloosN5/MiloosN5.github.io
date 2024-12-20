@@ -32,9 +32,9 @@
     },
     {
         "id": 5,
-        "sportName": "waterpolo",
-        "type": ["team"],
-        "title": "Waterpolo"
+        "sportName": "badminton",
+        "type": ["individual", "team"],
+        "title": "Badminton"
     },
     {
         "id": 6,
