@@ -23,5 +23,23 @@
         "sportName": "football",
         "type": ["team"],
         "title": "Football"
+    },
+    {
+        "id": 4,
+        "sportName": "volleyball",
+        "type": ["team"],
+        "title": "Volleyball"
+    },
+    {
+        "id": 5,
+        "sportName": "waterpolo",
+        "type": ["team"],
+        "title": "Waterpolo"
+    },
+    {
+        "id": 6,
+        "sportName": "athletics",
+        "type": ["individual", "team"],
+        "title": "Athletics"
     }
 ]
