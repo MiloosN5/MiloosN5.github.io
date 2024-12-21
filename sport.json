@@ -38,8 +38,8 @@
     },
     {
         "id": 6,
-        "sportName": "athletics",
-        "type": ["individual", "team"],
+        "sportName": "boxing",
+        "type": ["individual"],
         "title": "Athletics"
     }
 ]
