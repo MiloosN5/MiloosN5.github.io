@@ -5,7 +5,7 @@
         "type": ["team"],
         "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         "athletes": [
-            "men": [
+            {"men": [
                 {"name": "Nikola Jokic", "country": "SRB"},
                 {"name": "Giannis Antetokounmpo", "country": "GRE"},
                 {"name": "Luka Doncic", "country": "SLO"}, 
@@ -16,8 +16,8 @@
                 {"name": "Milos Teodosic", "country": "SRB"},
                 {"name": "Kyrie Irving", "country": "AUS"},
                 {"name": "Alperen Şengün", "country": "TUR"}
-            ],
-            "women": [
+            ]},
+            {"women": [
                 {"name": "A'ja Wilson", "country": "USA"},
                 {"name": "Kamilla Cardoso", "country": "BRA"},
                 {"name": "Jonquel Jones", "country": "BAH"},
@@ -28,8 +28,7 @@
                 {"name": "DeWanna Bonner", "country": "USA"},
                 {"name": "Satou Sabally", "country": "GER"},
                 {"name": "Dijonai Carrington", "country": "USA"}
-            ]
-      
+            ]}
         ],
         "events": [
             {"name": "2025 NBA All-Star Game", "date": "February 16"},
