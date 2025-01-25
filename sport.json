@@ -1,17 +1,48 @@
 [
     {
         "id": 1,
-        "sportName": "basketball",
+        "name": "basketball",
         "type": ["team"],
-        "title": "Basketball",
-        "background": "basketball__image",
         "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         "athletes": [
-            {"name": "Nikola Jokic", "country": "SRB"},
-            {"name": "Luka Doncic", "country": "SLO"}, 
-            {"name": "Milos Teodosic", "country": "SRB"}
+            "men": [
+                {"name": "Nikola Jokic", "country": "SRB"},
+                {"name": "Giannis Antetokounmpo", "country": "GRE"},
+                {"name": "Luka Doncic", "country": "SLO"}, 
+                {"name": "Jyson Tatum", "country": "USA"},
+                {"name": "Shai Gilgeous-Alexander", "country": "CAN"},
+                {"name": "Kevin Durant", "country": "USA"},
+                {"name": "Victor Wembanyama", "country": "FRA"},
+                {"name": "Milos Teodosic", "country": "SRB"},
+                {"name": "Kyrie Irving", "country": "AUS"},
+                {"name": "Alperen Şengün", "country": "TUR"}
+            ],
+            "women": [
+                {"name": "A'ja Wilson", "country": "USA"},
+                {"name": "Kamilla Cardoso", "country": "BRA"},
+                {"name": "Jonquel Jones", "country": "BAH"},
+                {"name": "Breanna Stewart", "country": "USA"},
+                {"name": "Alyssa Thomas", "country": "USA"},
+                {"name": "Brittney Griner", "country": "USA"},
+                {"name": "Ezi Magbegor", "country": "AUS"},
+                {"name": "DeWanna Bonner", "country": "USA"},
+                {"name": "Satou Sabally", "country": "GER"},
+                {"name": "Dijonai Carrington", "country": "USA"}
+            ]
+      
         ],
-        "events": ["International Window for Men's Basketball", "Olympics"]
+        "events": [
+            {"name": "2025 NBA All-Star Game", "date": "February 16"},
+            {"name": "EuroBasket Women 2025", "date": "June 18-29"},
+            {"name": "2025 FIBA 3x3 World Cup", "date": "June 23-29"},
+            {"name": "2025 NBA draft", "date": "June 26"},
+            {"name": "2025 FIBA Under-19 Basketball World Cup", "date": "June 28 - July 6"},
+            {"name": "2025 FIBA Under-19 Women's Basketball World Cup", "date": "July 12-20"},
+            {"name": "2025 FIBA Women's Asia Cup", "date": "July 13-20"},
+            {"name": "FIBA AfroBasket 2025", "date": "August 12-24"},
+            {"name": "2025 FIBA AmeriCUp", "date": "August 23-31"},
+            {"name": "EuroBasket 2025", "date": "August 27 - September 14"},
+        ]
     },
     {
         "id": 2,
